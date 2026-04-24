@@ -1,0 +1,9 @@
+sionna
+matplotlib
+mitsuba
+numpy
+ipykernel
+jupyter_client
+pyzmq
+tornado
+ipympl
